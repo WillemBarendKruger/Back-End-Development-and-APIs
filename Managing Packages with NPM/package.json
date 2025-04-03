@@ -1,0 +1,30 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"dependencies": {
+		"//": "the version after @freecodecamp/example: ^1.2.13, is: MAJOR.MINOR.PATCH",
+		"express": "^4.21.2",
+		"fcc-learn-npm-package-json": "file:"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
+	},
+	"version": "1.0.0",
+	"description": "This is a work in progress project",
+	"keywords": [
+		"Informative",
+		"Inlighting",
+		"creative",
+		"freecodecamp"
+	],
+	"author": "Willem Kruger",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
+	},
+	"homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme"
+}
